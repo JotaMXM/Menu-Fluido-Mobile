@@ -557,17 +557,6 @@ p {
    margin-left:-50px
 }
 
-#beleza {
-   color: white;
-   font-family: "Open Sans";
-   font-size: 18px;
-   text-align: center;
-   position: absolute;
-   top: 95%;
-   left: 60%;
-   margin-top:-50px;
-   margin-left:-50px
-}
 #academia {
    color: white;
    font-family: "Open Sans";
@@ -575,6 +564,66 @@ p {
    text-align: center;
    position: absolute;
    top: 95%;
+   left: 52%;
+   margin-top:-50px;
+   margin-left:-50px
+}
+
+#textlarge  {
+   color: white;
+   font-family: "Open Sans";
+   font-size: 18px;
+   text-align: center;
+   position: absolute;
+   top: 91%;
+   left: 36%;
+   margin-top:-50px;
+   margin-left:-50px
+}
+
+#textlarge2  {
+   color: white;
+   font-family: "Open Sans";
+   font-size: 17px;
+   text-align: center;
+   position: absolute;
+   top: 91%;
+   left: 44%;
+   margin-top:-50px;
+   margin-left:-50px
+}
+
+#textmin2 {
+    color: white;
+   font-family: "Open Sans";
+   font-size: 18px;
+   text-align: center;
+   position: absolute;
+   top: 91%;
+   left: 50%;
+   margin-top:-50px;
+   margin-left:-50px
+}
+
+#textmin {
+    color: white;
+   font-family: "Open Sans";
+   font-size: 18px;
+   text-align: center;
+   position: absolute;
+   top: 91%;
+   left: 63%;
+   margin-top:-50px;
+   margin-left:-50px
+}
+
+#twolines  {
+   color: white;
+   font-family: "Open Sans";
+   font-size: 18px;
+   text-align: center;
+   position: absolute;
+   top: 91%;
    left: 52%;
    margin-top:-50px;
    margin-left:-50px
